@@ -50,7 +50,6 @@ footer a.nav-link {
     background-color: #c90303; }
 
 .contact {
-  background: url("images/contact.jpg");
   background-attachment: fixed;
   background-size: cover; }
   .contact:before {
